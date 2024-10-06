@@ -1,0 +1,15 @@
+Log entry at 2024-10-06 11:34:09.062750:
+Original: Hello, how are you doing?
+Reversed: ?gniod uoy era woh ,olleH
+Length: 25
+
+Log entry at 2024-10-06 11:35:54.146234:
+Original: dart "c:\PurityKM\HP 820\Desktop\Power Learn Projects\dart-week-4-PurityKM\string.dart"
+Reversed: "trad.gnirts\MKytiruP-4-keew-trad\stcejorP nraeL rewoP\potkseD\028 PH\MKytiruP\:c" trad
+Length: 87
+
+Log entry at 2024-10-06 11:40:00.825781:
+Original: hi
+Reversed: ih
+Length: 2
+
